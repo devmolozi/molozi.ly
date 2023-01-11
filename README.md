@@ -9,7 +9,7 @@ Site para colocar links na biografia do Instagram, feito usando HTML, CSS, JS e 
 
 - pip install -r requeriments.txt
 
-- run flask
+- python3 app.py
 -------------------------------------------------------------
 
 
