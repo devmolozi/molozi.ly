@@ -5,7 +5,7 @@ Site para colocar links na biografia do Instagram, feito usando HTML, CSS, JS e 
 -------------------------------------------------------------
 - git clone https://github.com/jeanfiorentin/molozi.ly.git
 
-- cd molozi
+- cd molozi.ly
 
 - pip install -r requeriments.txt
 
